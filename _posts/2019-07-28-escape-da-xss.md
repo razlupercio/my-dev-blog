@@ -7,7 +7,7 @@ fullview: false
 comments: true
 ---
 
-next tuesday i'm giving a workshop regarding owasp 10 ten on the office so i'm preparing myself with a quick recap of certain concepts and vulnerabilities so as a warmup i went over the alert(1) to win challenges on [alf.nu](https://alf.nu/alert1)
+next tuesday i'm giving a workshop regarding owasp top ten on the office so i'm preparing myself with a quick recap of certain concepts and vulnerabilities so as a warmup i went over the alert(1) to win challenges on [alf.nu](https://alf.nu/alert1)
 
 # Warmup
 
