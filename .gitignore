@@ -3,3 +3,5 @@ _site/*
 *Thumbs.db
 Gemfile.lock
 .DS_Store
+vendor
+.bundle
