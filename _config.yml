@@ -16,7 +16,7 @@ defaults:
     values:
       title: raz's blog
 
-description: my very own blog where i wrote about js
+description: my very own blog where i wrote about js, gnulinux and hackthebox machines
 author:
   name: raz lupercio
   email: raz@lupercio.mx
@@ -24,15 +24,15 @@ author:
   twitter: razlupercio
   #pinterest: asd123
   #linkedin: asd123
-  bio: web dev & infosec
-  email_md5: 726351295ec82e145928582f595aa3aa
+  bio: infosec consultant
+  email_md5: 1a33d02cdcae7c9d310157266d739e44
 
 rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
 
 # set it as url of an image
-sidebar_background_image: http://blog.lupercio.mx/assets/media/santiago.jpg
+#sidebar_background_image: http://blog.lupercio.mx/assets/media/santiago.jpg
 
 BASE_PATH:
 
