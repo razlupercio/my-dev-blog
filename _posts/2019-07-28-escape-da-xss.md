@@ -7,11 +7,11 @@ fullview: false
 comments: true
 ---
 
-next tuesday i'm giving a workshop regarding owasp top ten on the office so i'm preparing myself with a quick recap of certain concepts and vulnerabilities so as a warmup i went over the alert(1) to win challenges on [alf.nu](https://alf.nu/alert1)
+next tuesday i'm giving a workshop regarding owasp top ten at the office so i'm preparing myself with a quick recap of certain concepts and vulnerabilities so as a warmup i went over the alert(1) to win challenges on [alf.nu](https://alf.nu/alert1)
 
 # Warmup
 
-to those who aren't familiar with these challenges let us quick briefing:
+to those who aren't familiar with these challenges let me do a quick briefing:
 
 {% highlight javascript %}
 function escape(s) {
