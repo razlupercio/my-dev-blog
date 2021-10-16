@@ -7,14 +7,14 @@ highlighter: rouge
 markdown: kramdown
 #disqus: dbyll
 #google_analytics: dbyll
-title: another babbling tech blog
+title: raz's blog
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: another babbling tech blog
+      title: raz's blog
 
 description: my very own blog where i wrote about js
 author:

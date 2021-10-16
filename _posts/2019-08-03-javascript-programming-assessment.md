@@ -61,7 +61,7 @@ first of all i set an array that holds the possible denominations of coins:
 var coins = [100, 50, 20, 10, 5, 2, 1];
 {% endhighlight %}
 
-then i wrote a function that validates the input if not it gets discarded **spoiler ahedad!!** it doesn't! you can add an input like 6.40+10 and it will be accepted.
+then i wrote a function that validates the input if not it gets discarded **spoiler ahead!!** it doesn't! you can add an input like 6.40+10 and it will be accepted.
 
 {% highlight javascript %}
 function validateDecimal(value)    {
